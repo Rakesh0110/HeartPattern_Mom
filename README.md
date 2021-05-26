@@ -1,2 +1,2 @@
-# Heart-Pattern_Mom
+# Heart Pattern_Mom
 <img src="mom.png">
